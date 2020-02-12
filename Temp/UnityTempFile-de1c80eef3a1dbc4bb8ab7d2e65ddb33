@@ -1,6 +1,6 @@
 /target:library
 /nowarn:0169
-/out:Temp/Assembly-CSharp.dll
+/out:Temp/Unity.Analytics.DataPrivacy.dll
 /debug:portable
 /optimize-
 /nostdlib+
@@ -68,19 +68,32 @@
 /reference:"D:\Program Files\Unity201847f1\Editor\Data\Managed/UnityEngine/UnityEngine.XRModule.dll"
 /reference:"D:\Program Files\Unity201847f1\Editor\Data\Managed/UnityEditor.dll"
 /reference:"D:\Program Files\Unity201847f1\Editor\Data\Managed/Unity.Locator.dll"
-/reference:Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
-/reference:Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll
-/reference:Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
-/reference:Library/ScriptAssemblies/Unity.TextMeshPro.dll
-/reference:Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll
 /reference:"D:/Program Files/Unity201847f1/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll"
+/reference:"D:/Program Files/Unity201847f1/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll"
+/reference:"D:/Program Files/Unity201847f1/Editor/Data/UnityExtensions/Unity/TestRunner/Editor/UnityEditor.TestRunner.dll"
+/reference:"D:/Program Files/Unity201847f1/Editor/Data/UnityExtensions/Unity/TestRunner/UnityEngine.TestRunner.dll"
+/reference:"D:/Program Files/Unity201847f1/Editor/Data/UnityExtensions/Unity/TestRunner/net35/unity-custom/nunit.framework.dll"
 /reference:"D:/Program Files/Unity201847f1/Editor/Data/UnityExtensions/Unity/Timeline/RuntimeEditor/UnityEngine.Timeline.dll"
+/reference:"D:/Program Files/Unity201847f1/Editor/Data/UnityExtensions/Unity/Timeline/Editor/UnityEditor.Timeline.dll"
 /reference:"D:/Program Files/Unity201847f1/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll"
+/reference:"D:/Program Files/Unity201847f1/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll"
+/reference:"D:/Program Files/Unity201847f1/Editor/Data/UnityExtensions/Unity/UnityGoogleAudioSpatializer/Editor/UnityEditor.GoogleAudioSpatializer.dll"
 /reference:"D:/Program Files/Unity201847f1/Editor/Data/UnityExtensions/Unity/UnityGoogleAudioSpatializer/RuntimeEditor/UnityEngine.GoogleAudioSpatializer.dll"
+/reference:"D:/Program Files/Unity201847f1/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/Editor/UnityEditor.SpatialTracking.dll"
 /reference:"D:/Program Files/Unity201847f1/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll"
+/reference:"D:/Program Files/Unity201847f1/Editor/Data/UnityExtensions/Unity/UnityVR/Editor/UnityEditor.VR.dll"
+/reference:"D:/Program Files/Unity201847f1/Editor/Data/Managed/UnityEditor.Graphs.dll"
+/reference:"D:/Program Files/Unity201847f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll"
+/reference:"D:/Program Files/Unity201847f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll"
+/reference:"D:/Program Files/Unity201847f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll"
+/reference:"D:/Program Files/Unity201847f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll"
+/reference:"D:/Program Files/Unity201847f1/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll"
+/reference:"C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/15.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll"
+/reference:C:/Users/student/Desktop/NextStandardCompetition/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll
 /reference:C:/Users/student/Desktop/NextStandardCompetition/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll
 /reference:C:/Users/student/Desktop/NextStandardCompetition/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll
 /reference:C:/Users/student/Desktop/NextStandardCompetition/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll
+/reference:C:/Users/student/Desktop/NextStandardCompetition/Library/PackageCache/com.unity.purchasing@2.0.3/Editor/UnityEditor.Purchasing.dll
 /reference:"D:/Program Files/Unity201847f1/Editor/Data/PlaybackEngines/iOSSupport\UnityEditor.iOS.Extensions.Xcode.dll"
 /reference:"D:/Program Files/Unity201847f1/Editor/Data/PlaybackEngines/iOSSupport\UnityEditor.iOS.Extensions.Common.dll"
 /reference:"D:\Program Files\Unity201847f1\Editor\Data\NetStandard\ref\2.0.0\netstandard.dll"
@@ -299,4 +312,6 @@
 /define:ENABLE_VSTU
 /define:CSHARP_7_OR_LATER
 /define:CSHARP_7_3_OR_NEWER
-Assets\Scrpits\PlayerController.cs
+C:\Users\student\Desktop\NextStandardCompetition\Library\PackageCache\com.unity.analytics@3.2.2\DataPrivacy\AssemblyInfo.cs
+C:\Users\student\Desktop\NextStandardCompetition\Library\PackageCache\com.unity.analytics@3.2.2\DataPrivacy\DataPrivacy.cs
+C:\Users\student\Desktop\NextStandardCompetition\Library\PackageCache\com.unity.analytics@3.2.2\DataPrivacy\DataPrivacyButton.cs

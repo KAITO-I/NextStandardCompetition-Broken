@@ -61,6 +61,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scrpits\PlayerController.cs" />
+    <Compile Include="Assets\Scrpits\PlayerControllerTester.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/student/Desktop/NextStandardCompetition/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
